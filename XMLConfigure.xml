@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProcessSettings>
+	<Algorithm>DoubleShiftUp</Algorithm>
+	<KeyPath>D:\key.txt</KeyPath>
+	<SourceDirectory>D:\filesToencrypt</SourceDirectory>
+	<SourceFileName>D:\CryptoTest.txt</SourceFileName>
+</ProcessSettings>
